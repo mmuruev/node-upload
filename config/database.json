@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "host": "localhost",
+    "user": "node-upload",
+    "password": "node-upload",
+    "database": "node_upload",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+}
